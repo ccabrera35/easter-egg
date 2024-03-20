@@ -1,0 +1,34 @@
+{
+  "name": "easter-egg",
+  "displayName": "Easter Egg",
+  "description": "Easter Egg Theme for VS Code.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon.png",
+  "keywords": [
+		"dark",
+		"theme",
+    "easter",
+    "pastel",
+		"colorful",
+		"color-theme"
+	],
+  "repository": {
+		"type": "git",
+		"url": ""
+	},
+  "contributes": {
+    "themes": [
+      {
+        "label": "Easter Egg",
+        "uiTheme": "vs-dark",
+        "path": "./themes/easter-egg-color-theme.json"
+      }
+    ]
+  }
+}
