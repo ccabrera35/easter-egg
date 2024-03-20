@@ -2,7 +2,7 @@
 
 ## Install via VS Marketplace
 
-1. Go to [VS Code Marketplace](github.com/ccabrera35).
+1. Go to [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemname=ccabrera35.easter-egg).
 2. Click on the `Install` button.
 
 ## Install via Command Palette
