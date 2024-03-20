@@ -11,17 +11,17 @@
   ],
   "icon": "images/icon.png",
   "keywords": [
-		"dark",
-		"theme",
+    "dark",
+    "theme",
     "easter",
     "pastel",
-		"colorful",
-		"color-theme"
-	],
+    "colorful",
+    "color-theme"
+  ],
   "repository": {
-		"type": "git",
-		"url": "https://github.com/ccabrera35/easter-egg.git"
-	},
+    "type": "git",
+    "url": "https://github.com/ccabrera35/easter-egg.git"
+  },
   "contributes": {
     "themes": [
       {

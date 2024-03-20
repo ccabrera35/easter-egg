@@ -3,7 +3,7 @@
 ## Install via VS Marketplace
 
 1. Go to [VS Code Marketplace](github.com/ccabrera35).
-2. Click on the "Install" button.
+2. Click on the `Install` button.
 
 ## Install via Command Palette
 
@@ -16,16 +16,14 @@
 
 Semantic highlighting enables more specificity by emphasizing the semantic meaning or role of code elements.
 
-**Ensure that `Semantic Highlighting` is enabled to use:**
+**If you want to use `Semantic Highlighting`, ensure that it is enabled to use:**
 
 1.  Press `Cmd + ,`
 2.  Type `Semantic Highlighting`
-3.  `configuredByTheme` should be the default. Enable this setting if not. (That is, if you want to use it)
+3.  `configuredByTheme` should be the default. Enable this setting if not.
 
-Syntax highlighting dictates the color scheme and formatting of source code. It can aid in recognizing language constructs. 
+Syntax highlighting dictates the color scheme and formatting of source code. It can aid in recognizing language constructs.
 
-
-***NOTE: Semantic highlighting will take precedence over syntax highlighting. If this is not desired, you can set it to `false`.***
-
+**_NOTE: Semantic highlighting will take precedence over syntax highlighting. If this is not desired, you can set it to `false`._**
 
 **Enjoy!**
