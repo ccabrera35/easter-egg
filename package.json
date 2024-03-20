@@ -2,7 +2,7 @@
   "name": "easter-egg",
   "displayName": "Easter Egg",
   "description": "Easter Egg Theme for VS Code.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "ccabrera35",
   "license": "MIT",
   "engines": {
